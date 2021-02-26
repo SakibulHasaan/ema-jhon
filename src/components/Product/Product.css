@@ -9,3 +9,10 @@
 .product-name{
     color: rgba(0, 0, 255, 0.692);
 }
+.main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
